@@ -9,7 +9,7 @@ This repo is taking a look at using [Binder](https://mybinder.org/) to share res
 
 [Jupyter notebook](https://mybinder.org/v2/gh/mawds/first-binder-explore/68bb1dd795a199d7c87851425867f541436a3343?urlpath=lab%2Ftree%2Fjupyter%2Fjupyter.ipynb)
 
-[Pluto notebook](https://binder.plutojl.org/v0.19.4/open?url=https%253A%252F%252Fraw.githubusercontent.com%252Fmawds%252Ffirst-binder-explore%252Fmain%252Fjulia%252Ftest_pluto_notebook.jl)
+[Pluto notebook](https://binder.plutojl.org/v0.19.4/open?url=https%253A%252F%252Fraw.githubusercontent.com%252Fmawds%252Ffirst-binder-explore%252Fdeps%252Fjulia%252Fpomdps.jl) (this is one of the tutorial notebooks from https://juliaacademy.com/courses/decision-making-under-uncertainty-with-pomdps-jl/lectures/34881808 to give something with more credible depenencies than "hello world")
 
 
 ### Notes
