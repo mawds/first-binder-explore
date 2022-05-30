@@ -1,6 +1,7 @@
 [deps]
 POMDPs = "a93abf59-7444-517b-a68a-c42f96afdd7d"
 Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
 QMDP = "3aa3ecc9-5a5d-57c8-8188-3e47bd8068d2"
 
 [compat]
