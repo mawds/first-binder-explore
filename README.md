@@ -17,3 +17,7 @@ This repo is taking a look at using [Binder](https://mybinder.org/) to share res
 You can't (as far as I can tell) run a Julia Pluto notebook in the regular mybinder Binder.  Instead, go to https://pluto-on-binder.glitch.me/ and paste a link to the raw version of the Pluto notebook, i.e. navigate to the notebook in Github, and copy the link behind this button: 
 ![image](https://user-images.githubusercontent.com/12030124/170959229-14e9e520-3702-4703-bd82-13132c4a5b54.png)
 
+
+Exploratory look at using with R/Shiny moved to here: https://github.com/mawds/shiny-binder
+
+
