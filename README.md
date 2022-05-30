@@ -1,2 +1,4 @@
 # first-binder-explore
-Exploring the features of binder
+
+This repo is taking a look at using [Binder](https://mybinder.org/) to share research
+
